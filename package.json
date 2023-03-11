@@ -1,5 +1,5 @@
 {
-  "private":"true",
+  "private": "true",
   "name": "shared-ui",
   "version": "1.0.0",
   "description": "Shared UI Components",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "^15.8.6"
+  }
 }
